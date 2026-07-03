@@ -30,11 +30,14 @@ This project implements a Flappy Bird-style game on an Arduino Uno using a 1.8 i
 - Restart logic after game over
 - 
 ## Report and Documentation
-
+- includes designs, hardware images, and simulation design
 - [Final Project Report](report/Flappy-Bird-Project-Report.pdf)
 
-## Hardware Images
+## Demo Videos
 
+- [Demo 1: Flappy Bird gameplay on Arduino](https://youtube.com/shorts/nfpVYXf57Rs)
+- [Demo 2: Hardware/display demo](https://youtube.com/shorts/nzXXmZ_9BvY)
 The project documentation includes the wiring diagram, breadboard implementation, and task/state-machine diagrams used during development.
+
 ## My Contribution
 I designed and implemented the embedded game logic, display interface, joystick controls, sprite rendering, collision detection, and score display. I also integrated the hardware components and documented the wiring, task diagram, and state machine behavior.
