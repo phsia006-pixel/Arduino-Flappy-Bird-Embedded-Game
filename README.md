@@ -28,6 +28,13 @@ This project implements a Flappy Bird-style game on an Arduino Uno using a 1.8 i
 - Joystick input for flap control
 - Gravity and collision-based gameplay
 - Restart logic after game over
+- 
+## Report and Documentation
 
+- [Final Project Report](report/Flappy-Bird-Project-Report.pdf)
+
+## Hardware Images
+
+The project documentation includes the wiring diagram, breadboard implementation, and task/state-machine diagrams used during development.
 ## My Contribution
 I designed and implemented the embedded game logic, display interface, joystick controls, sprite rendering, collision detection, and score display. I also integrated the hardware components and documented the wiring, task diagram, and state machine behavior.
